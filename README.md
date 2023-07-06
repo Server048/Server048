@@ -1,46 +1,30 @@
- 
- 
-# Source Codes - bagus_1129xo API
-<p align="center">
-<a href="#"><img title="api zeeoneofc" src="https://img.shields.io/badge/zeeoneofc Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zeeoneofc"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/api-zeeoneofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/api-zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/api-zeeoneofc?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-<p align='center'>
-   <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/zeeoneofc"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
-</P>
 
-## Api Features
-Check it yourself [Here](https://api-zeeoneofc.herokuapp.com)
+<h1 align="center" style="font-size:250px">👋 Welcome to My Profil</h1>
 
+- 📚 Hobi coding nodejs tu je start coding from 12
+- 👀 Suka cari bende yang best dan menarik
 
-## Cara Ganti ApiKey Gimana?
-Cara Mengganti Nya Cukup Gampang, Kalian Hanya Perlu Untuk Mengganti Syntax Di Bawah Ini
-```js
-if(apikeyInput != 'MASUKKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
-```
-Atau
+### 🛠 &nbsp;Tech Stacks
 
-```js
-if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
-```
-<h1 align="center"> Cara Deploy Ada Di YouTube Saya
-<p align="center">
-  <a href="https://youtu.be/TyNPsf_x0qE"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <br>
-  
+![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
+![LUA](https://img.shields.io/badge/Lua-280137?style=flat&logo=lua)&nbsp;
+![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center" class="d-flex justify-content-center align-items-center">
+  <a href="https://github.com/AlipBot">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Server048&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Server048&layout=compact&langs_count=8&theme=omni"/>
+  </a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
 
-# Special Thanks
-- Zhirrr
-- ZefianAlfian (Makasih template nya)
-- sProDev (Makasih Kodeposnya)
-- devnazir (Credits : FilmApik, LK21)
+<p align="center">
+<a href="https://www.instagram.com/bagus_1129xo">
+<img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-alipje29-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<p align="center">
+    <a href="https://discord.com/users/949509197173755906"><img src="https://lanyard.cnrad.dev/api/949509197173755906?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
+</p>
