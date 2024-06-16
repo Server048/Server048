@@ -1,6 +1,5 @@
-
-<h1 align="center" style="font-size:250px">👋 Welcome to My Profil</h1>
-<div>
+<div align="center">
+<h1 align="center" style="font-size:250px">👋 Welcome to My Profil</h1
   <p align="center"></p>
   <p>I'm a programmer from Indonesia who loves cats and code. Here's where I share my journey.</p>
   
@@ -8,9 +7,9 @@
 
 </div>
 
--   🌱 I'm currently learning JS, TS, Golang, and C++.
+-   🌱 I'm currently learning JS, TS, HTML, PHP, REAC.JS, LUA, and C++.
 -   💬 English isn't my first language, so please excuse any mistakes.
--   📫 Reach me on Discord: yoruakio
+-   📫 Reach me on Discord: thedeviltime
 -   ⚡ Fun fact: My cat is the cutest!
 
 I work on a Toshiba Laptop running Arco Linux (Hyprland). It's not the most powerful machine, but it gets the job done.
